@@ -148,6 +148,4 @@ Use either fix:
 - Re-run vectorization whenever documents are added/updated.
 - If model latency is high, reduce chunk size or the number of source PDFs.
 
-## License
 
-Use this project for learning and experimentation. Add your preferred license if needed.
